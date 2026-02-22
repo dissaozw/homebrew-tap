@@ -1,8 +1,8 @@
 class ClawDrive < Formula
   desc "AI-managed personal file drive — auto-categorize, tag, and retrieve files"
   homepage "https://github.com/dissaozw/claw-drive"
-  url "https://github.com/dissaozw/claw-drive/archive/refs/tags/v0.4.2.tar.gz"
-  sha256 "bc758ff2b5ff451f15a9aefdd121e73c011c38ecc6864499ffffc66355ca1c95"
+  url "https://github.com/dissaozw/claw-drive/archive/refs/tags/v0.4.3.tar.gz"
+  sha256 "b713ce038d7c513fbba809073e182c4924725886e8a660f89d4daccb0cd23ccf"
   license "MIT"
 
   def install
