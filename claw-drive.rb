@@ -6,7 +6,7 @@ class ClawDrive < Formula
   license "MIT"
 
   def install
-    bin.install "bin/claw-drive.sh" => "claw-drive"
+    bin.install "bin/claw-drive"
     lib.install Dir["lib/*"]
   end
 
